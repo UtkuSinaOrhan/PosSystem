@@ -1,0 +1,25 @@
+Blueberry Boom,16,209.10
+Strawberry Boom,16,209.10
+Coolberry Mint Fresh,16,172.55
+Coolberry Mint Fresh,24,209.10
+Lime Crush,16,172.55
+Lime Crush,24,209.10
+Iced Americano,16,159.80
+Iced Americano,24,172.55
+Iced Cafe Latte,16,172.55
+Iced Cafe Latte,24,190.40
+Iced Chai Tea Latte,16,197.20
+Iced Chai Tea Latte,24,215.05
+Iced Mocha,16,190.40
+Iced Mocha,24,221.85
+Iced White Mocha,16,190.40
+Iced White Mocha,24,221.85
+Iced Caramel Macchiato,16,190.40
+Iced Caramel Macchiato,24,221.85
+Iced Caramel Latte,16,190.40
+Iced Caramel Latte,24,221.85
+Iced Caramel Mocha,16,197.20
+Iced Caramel Mocha,24,227.80
+Chocolate Coffee Boom,16,209.10
+Iced filter coffee,12,135.15
+Iced filter coffee,16,159.80

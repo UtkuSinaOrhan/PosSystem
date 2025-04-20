@@ -1,0 +1,35 @@
+Latte,12,172.55
+Latte,16,-189.55
+Americano,12,154.70
+Americano,16,165.75
+Cappuccino,12,172.55
+Cappuccino,16,190.40
+Flat white,12,178.50
+Flat white,16,203.15
+Black Eye,12,172.55
+Black Eye,16,190.40
+Cafe Mocha,12,190.40
+Cafe Mocha,16,209.10
+White Mocha,12,190.40
+White Mocha,16,209.10
+Caramel Latte,12,197.20
+Caramel Latte,16,221.85
+Caramel Macchiato,12,197.20
+Caramel Macchiato,16,221.85
+Caramel Mocha,12,197.20
+Caramel Mocha,16,221.85
+Oreo Latte,12,209.10
+Oreo Latte,16,233.75
+Biscoff Latte,12,209.10
+Biscoff Latte,16,233.75
+Hot Chocolate,12,178.50
+Hot Chocolate,16,209.10
+Chai Tea Latte,12,203.15
+Chai Tea Latte,16,221.85
+Jasmine Green Tea,12,123.25
+Winter Tea,12,123.25
+Apple Cinnamon Tea,12,123.25
+Caramel Hot Chocolate,12,197.20
+Hazelnut Hot Chocolate,12,203.15
+Filter coffee,12,135.15
+Filter coffee,16,159.80
